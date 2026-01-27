@@ -1,0 +1,1 @@
+!function(){"use strict";function t(){document.querySelectorAll("details summary a").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation()})})}"loading"===document.readyState?document.addEventListener("DOMContentLoaded",t):t()}();

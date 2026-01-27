@@ -2,9 +2,459 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://clothes4u.github.io/floer/01/18/2026/hello-world/</loc>
+    <loc>http://clothes4u.github.io/floer/index.html</loc>
     
-    <lastmod>2026-01-18</lastmod>
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/fanye/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/links/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/links/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/courses/math55b/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/courses/math55a/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/courses/math55b/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/courses/math55a/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/courses/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/courses/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/courses/knots-su2-pillowcase/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/courses/knots-su2-pillowcase/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/courses/floer-homology/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/courses/algebraic-topology/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/courses/differential-geometry/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/essays/how-to-develop-taste/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/essays/how-to-accumulate-motivation/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/essays/how-to-discuss/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/essays/how-to-collaborate/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/essays/how-to-get-proof-ideas/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/essays/how-to-choose-topic/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/essays/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/essays/how-to-develop-taste/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/essays/how-to-discuss/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/join/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/essays/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/join/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/seminars/gauge-theory-topology/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/seminars/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/seminars/gauge-theory-topology/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/courses/floer-homology/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/courses/algebraic-topology/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/courses/differential-geometry/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/seminars/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/more/news/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/news/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/research/index.html</loc>
+    
+    <lastmod>2026-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/research/index.html</loc>
+    
+    <lastmod>2026-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/essays/how-to-get-proof-ideas/index.html</loc>
+    
+    <lastmod>2026-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/essays/how-to-accumulate-motivation/index.html</loc>
+    
+    <lastmod>2026-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/essays/how-to-collaborate/index.html</loc>
+    
+    <lastmod>2026-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/more/essays/how-to-choose-topic/index.html</loc>
+    
+    <lastmod>2026-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/people/index.html</loc>
+    
+    <lastmod>2026-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/people/index.html</loc>
+    
+    <lastmod>2026-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/fanye/index.html</loc>
+    
+    <lastmod>2026-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/publications/index.html</loc>
+    
+    <lastmod>2026-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/publications/index.html</loc>
+    
+    <lastmod>2026-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clothes4u.github.io/floer/en/about/index.html</loc>
+    
+    <lastmod>2026-01-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +463,7 @@
 
   <url>
     <loc>http://clothes4u.github.io/floer</loc>
-    <lastmod>2026-01-18</lastmod>
+    <lastmod>2026-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
