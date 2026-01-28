@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://floer.wiki/fanye/index.html</loc>
+    <loc>https://floer.wiki/en/more/courses/index.html</loc>
     
-    <lastmod>2026-01-27</lastmod>
+    <lastmod>2026-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/more/courses/index.html</loc>
+    
+    <lastmod>2026-01-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +21,15 @@
   
   <url>
     <loc>https://floer.wiki/en/fanye/index.html</loc>
+    
+    <lastmod>2026-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/fanye/index.html</loc>
     
     <lastmod>2026-01-27</lastmod>
     
@@ -165,24 +183,6 @@
   
   <url>
     <loc>https://floer.wiki/more/courses/math55a/index.html</loc>
-    
-    <lastmod>2026-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/more/courses/index.html</loc>
-    
-    <lastmod>2026-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/more/courses/index.html</loc>
     
     <lastmod>2026-01-26</lastmod>
     
@@ -463,7 +463,7 @@
 
   <url>
     <loc>https://floer.wiki/</loc>
-    <lastmod>2026-01-27</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

@@ -1,5 +1,7 @@
-https://floer.wiki/fanye/index.html
+https://floer.wiki/en/more/courses/index.html
+https://floer.wiki/more/courses/index.html
 https://floer.wiki/en/fanye/index.html
+https://floer.wiki/fanye/index.html
 https://floer.wiki/index.html
 https://floer.wiki/en/research/index.html
 https://floer.wiki/en/join/index.html
@@ -17,8 +19,6 @@ https://floer.wiki/en/more/courses/math55b/index.html
 https://floer.wiki/en/more/courses/math55a/index.html
 https://floer.wiki/more/courses/math55b/index.html
 https://floer.wiki/more/courses/math55a/index.html
-https://floer.wiki/en/more/courses/index.html
-https://floer.wiki/more/courses/index.html
 https://floer.wiki/more/courses/knots-su2-pillowcase/index.html
 https://floer.wiki/en/more/courses/knots-su2-pillowcase/index.html
 https://floer.wiki/en/more/courses/floer-homology/index.html
