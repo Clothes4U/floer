@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://floer.wiki/en/members/index.html</loc>
+    
+    <lastmod>2026-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/members/index.html</loc>
+    
+    <lastmod>2026-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://floer.wiki/research/index.html</loc>
     
     <lastmod>2026-07-25</lastmod>
@@ -56,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://floer.wiki/members/index.html</loc>
-    
-    <lastmod>2026-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://floer.wiki/en/publications/index.html</loc>
     
     <lastmod>2026-07-17</lastmod>
@@ -93,15 +102,6 @@
   
   <url>
     <loc>https://floer.wiki/en/join/index.html</loc>
-    
-    <lastmod>2026-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/members/index.html</loc>
     
     <lastmod>2026-07-17</lastmod>
     
@@ -454,7 +454,7 @@
 
   <url>
     <loc>https://floer.wiki/</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
