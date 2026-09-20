@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://floer.wiki/en/more/courses/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/more/courses/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/en/research/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/research/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/members/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/en/members/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/en/join/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/join/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://floer.wiki/index.html</loc>
     
     <lastmod>2026-09-15</lastmod>
@@ -47,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://floer.wiki/more/courses/index.html</loc>
-    
-    <lastmod>2026-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://floer.wiki/fanye/index.html</loc>
     
     <lastmod>2026-08-17</lastmod>
@@ -68,42 +131,6 @@
     <loc>https://floer.wiki/en/fanye/index.html</loc>
     
     <lastmod>2026-08-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/members/index.html</loc>
-    
-    <lastmod>2026-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/members/index.html</loc>
-    
-    <lastmod>2026-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/research/index.html</loc>
-    
-    <lastmod>2026-07-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/research/index.html</loc>
-    
-    <lastmod>2026-07-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -137,25 +164,7 @@
   </url>
   
   <url>
-    <loc>https://floer.wiki/join/index.html</loc>
-    
-    <lastmod>2026-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://floer.wiki/en/publications/index.html</loc>
-    
-    <lastmod>2026-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/join/index.html</loc>
     
     <lastmod>2026-07-17</lastmod>
     
@@ -167,15 +176,6 @@
     <loc>https://floer.wiki/publications/index.html</loc>
     
     <lastmod>2026-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/more/courses/index.html</loc>
-    
-    <lastmod>2026-07-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -463,7 +463,7 @@
 
   <url>
     <loc>https://floer.wiki/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
