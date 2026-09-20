@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://floer.wiki/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/en/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/en/members/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/members/index.html</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://floer.wiki/en/more/courses/index.html</loc>
     
     <lastmod>2026-09-20</lastmod>
@@ -38,24 +74,6 @@
   </url>
   
   <url>
-    <loc>https://floer.wiki/members/index.html</loc>
-    
-    <lastmod>2026-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/members/index.html</loc>
-    
-    <lastmod>2026-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://floer.wiki/en/join/index.html</loc>
     
     <lastmod>2026-09-20</lastmod>
@@ -74,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://floer.wiki/index.html</loc>
-    
-    <lastmod>2026-09-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://floer.wiki/more/news/index.html</loc>
     
     <lastmod>2026-09-15</lastmod>
@@ -93,15 +102,6 @@
   
   <url>
     <loc>https://floer.wiki/geometry2026/index.html</loc>
-    
-    <lastmod>2026-09-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/index.html</loc>
     
     <lastmod>2026-09-15</lastmod>
     
