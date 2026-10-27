@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://floer.wiki/en/index.html</loc>
+    
+    <lastmod>2026-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/index.html</loc>
+    
+    <lastmod>2026-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://floer.wiki/publications/index.html</loc>
     
     <lastmod>2026-10-27</lastmod>
@@ -66,24 +84,6 @@
   
   <url>
     <loc>https://floer.wiki/more/courses/index.html</loc>
-    
-    <lastmod>2026-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/en/index.html</loc>
-    
-    <lastmod>2026-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/index.html</loc>
     
     <lastmod>2026-10-27</lastmod>
     
