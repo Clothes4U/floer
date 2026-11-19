@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://floer.wiki/geometry2026/index.html</loc>
+    
+    <lastmod>2026-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://floer.wiki/index.html</loc>
     
     <lastmod>2026-11-19</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://floer.wiki/publications/index.html</loc>
     
     <lastmod>2026-11-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://floer.wiki/geometry2026/index.html</loc>
-    
-    <lastmod>2026-11-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -128,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://floer.wiki/en/join/index.html</loc>
-    
-    <lastmod>2026-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://floer.wiki/en/more/courses/index.html</loc>
     
     <lastmod>2026-10-18</lastmod>
@@ -147,6 +138,15 @@
   
   <url>
     <loc>https://floer.wiki/en/more/links/index.html</loc>
+    
+    <lastmod>2026-10-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://floer.wiki/en/join/index.html</loc>
     
     <lastmod>2026-10-18</lastmod>
     
